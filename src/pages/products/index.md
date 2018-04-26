@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Our Coffee
-image: /img/screen shot 2018-04-20 at 11.36.52 am.png
+image: /img/carbon.png
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
